@@ -1,0 +1,9 @@
+# Ignore data (local files were too big to push to repo)
+**/archive/
+**/data/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore MacOS-specific file
+.DS_Store
